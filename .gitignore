@@ -1,0 +1,12 @@
+# idea stuff
+*.iml
+.idea/
+# scala staff
+
+*.class
+*.log
+
+logs
+project/project/
+project/target/
+target/
